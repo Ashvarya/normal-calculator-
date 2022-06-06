@@ -1,0 +1,20 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .ul{
+    background-color:lightblue;
+  }
+  .add{
+    color:red;
+  }
+  .sub{
+    color:blue;
+  }
+  .mult{
+    color:brown;
+  }
+  .div{
+    color:green;
+  }
+  
